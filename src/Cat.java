@@ -5,7 +5,7 @@ public class Cat
 {
     //напишите тут ваш код
     String name;
-    int weight = 5;
+    int weight = 4;
     int age = 5;
     String color;
     String adr;
